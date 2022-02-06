@@ -1742,7 +1742,7 @@ var La = NewWordList,
                                     n = e.isWin,
                                     r = JSON.parse(window.localStorage.getItem(j)),
                                     i = JSON.parse(window.localStorage.getItem(S)),
-                                    l = "Crewdle ".concat(s);
+                                    l = "412 Crewdle ".concat(s);
                                 l += " ".concat(n ? t : "X", "/").concat(6), o && (l += "*");
                                 var d = "";
                                 return a.forEach((function(e) {
