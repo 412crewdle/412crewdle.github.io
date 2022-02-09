@@ -1128,7 +1128,7 @@ var La = NewWordList,
     var Za = "IN_PROGRESS",
         es = "WIN",
         as = "FAIL",
-        ss = ["Get fucked, you cheated", "No one cares about your score", "I really hate Brian", "Much better than Brian", "Meh", "Shitty, but still better than Brian"],
+        ss = ["Get fucked, you cheated", "No one cares about your score", "I really hate Brian", "Becca got it before you", "Meh", "Lyndsey\'s judging you"],
         ts = function(e) {
             r(t, e);
             var a = h(t);
