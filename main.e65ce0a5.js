@@ -1055,7 +1055,7 @@ var La = NewWordList,
         return e + (a[(s - 20) % 10] || a[s] || a[0])
     }
     // Here's where we set the "start date" of Feb
-    var Ha = new Date(2022, 1, 7, 0, 0, 0, 0);
+    var Ha = new Date(2022, 1, 8, 0, 0, 0, 0);
 
     function Na(e, a) {
         var s = new Date(e),
