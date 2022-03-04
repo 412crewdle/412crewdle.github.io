@@ -974,7 +974,6 @@ var NewWordList = [
 "slack",
 "buddy",
 "bocce",
-"stella",
 "beers",
 "saggy",
 "bombs",
