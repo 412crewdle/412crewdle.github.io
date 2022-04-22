@@ -1028,6 +1028,8 @@ var NewWordList = [
 "jokes",
 "honey",
 "scams",
+"matty",
+"bumpo",
 ];
 var La = NewWordList,
         Ta = La.concat(OriginalWordList).concat(OriginalAllowedWordList),
